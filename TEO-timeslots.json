@@ -1,0 +1,172 @@
+[
+  {
+    "cod_timewindow": "SEG_8-10",
+    "cod_days": "SEG",
+    "cod_time": "8-10",
+    "timegroup": [
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "SEG_10-12",
+    "cod_days": "SEG",
+    "cod_time": "10-12",
+    "timegroup": [
+      1,
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "SEG_14-16",
+    "cod_days": "SEG",
+    "cod_time": "14-16",
+    "timegroup": [
+      1,
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "SEG_16-18",
+    "cod_days": "SEG",
+    "cod_time": "16-18",
+    "timegroup": [
+      1
+    ]
+  },
+  {
+    "cod_timewindow": "TER_8-10",
+    "cod_days": "TER",
+    "cod_time": "8-10",
+    "timegroup": [
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "TER_10-12",
+    "cod_days": "TER",
+    "cod_time": "10-12",
+    "timegroup": [
+      1,
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "TER_14-16",
+    "cod_days": "TER",
+    "cod_time": "14-16",
+    "timegroup": [
+      1,
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "TER_16-18",
+    "cod_days": "TER",
+    "cod_time": "16-18",
+    "timegroup": [
+      1
+    ]
+  },
+  {
+    "cod_timewindow": "QUA_8-10",
+    "cod_days": "QUA",
+    "cod_time": "8-10",
+    "timegroup": [
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "QUA_10-12",
+    "cod_days": "QUA",
+    "cod_time": "10-12",
+    "timegroup": [
+      1,
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "QUA_14-16",
+    "cod_days": "QUA",
+    "cod_time": "14-16",
+    "timegroup": [
+      1,
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "QUA_16-18",
+    "cod_days": "QUA",
+    "cod_time": "16-18",
+    "timegroup": [
+      1
+    ]
+  },
+  {
+    "cod_timewindow": "QUI_8-10",
+    "cod_days": "QUI",
+    "cod_time": "8-10",
+    "timegroup": [
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "QUI_10-12",
+    "cod_days": "QUI",
+    "cod_time": "10-12",
+    "timegroup": [
+      1,
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "QUI_14-16",
+    "cod_days": "QUI",
+    "cod_time": "14-16",
+    "timegroup": [
+      1,
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "QUI_16-18",
+    "cod_days": "QUI",
+    "cod_time": "16-18",
+    "timegroup": [
+      1
+    ]
+  },
+  {
+    "cod_timewindow": "SEX_8-10",
+    "cod_days": "SEX",
+    "cod_time": "8-10",
+    "timegroup": [
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "SEX_10-12",
+    "cod_days": "SEX",
+    "cod_time": "10-12",
+    "timegroup": [
+      1,
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "SEX_14-16",
+    "cod_days": "SEX",
+    "cod_time": "14-16",
+    "timegroup": [
+      1,
+      2
+    ]
+  },
+  {
+    "cod_timewindow": "SEX_16-18",
+    "cod_days": "SEX",
+    "cod_time": "16-18",
+    "timegroup": [
+      1
+    ]
+  }
+]

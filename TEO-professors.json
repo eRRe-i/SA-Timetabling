@@ -1,0 +1,72 @@
+[
+  {
+    "cod_professor": "PROF_1",
+    "professor_name": "ADRIELI FLAUTA",
+    "cod_preferred_hours": ["TER_8-10", "TER_10-12", "TER_14-16", "TER_16-18"]
+  },
+  {
+    "cod_professor": "PROF_2",
+    "professor_name": "BRENO DEMBOFEXILE",
+    "cod_preferred_hours": ["SEX_8-10", "SEX_10-12", "SEX_14-16", "SEX_16-18"]
+  },
+  {
+    "cod_professor": "PROF_3",
+    "professor_name": "DANILO POSER",
+    "cod_preferred_hours": ""
+  },
+  {
+    "cod_professor": "PROF_4",
+    "professor_name": "PKMN-GO",
+    "cod_preferred_hours": ["SEG_8-10", "SEG_10-12", "SEG_14-16", "SEG_16-18", "TER_8-10", "TER_10-12", "TER_14-16", "TER_16-18"]
+  },
+  {
+    "cod_professor": "PROF_5",
+    "professor_name": "GRAPH QUEEN",
+    "cod_preferred_hours": null
+  },
+  {
+    "cod_professor": "PROF_6",
+    "professor_name": "DCC's MVP",
+    "cod_preferred_hours": null
+  },
+  {
+    "cod_professor": "PROF_7",
+    "professor_name": "THIS IS NOT PARALLELISM!",
+    "cod_preferred_hours": null
+  },
+  {
+    "cod_professor": "PROF_8",
+    "professor_name": "DATA WHISPERER",
+    "cod_preferred_hours": null
+  },
+  {
+    "cod_professor": "PROF_9",
+    "professor_name": "STRICT MONK",
+    "cod_preferred_hours": ["SEG_8-10", "SEG_10-12", "SEG_14-16", "SEG_16-18", "TER_8-10", "TER_10-12", "TER_14-16", "TER_16-18"]
+  },
+  {
+    "cod_professor": "PROF_10",
+    "professor_name": "MARCEL SILVA",
+    "cod_preferred_hours": null
+  },
+  {
+    "cod_professor": "PROF_11",
+    "professor_name": "SOPHISTICATED",
+    "cod_preferred_hours": ["SEG_8-10", "SEG_10-12", "SEG_14-16", "SEG_16-18", "TER_8-10", "TER_10-12", "TER_14-16", "TER_16-18", "QUA_8-10", "QUA_10-12", "QUA_14-16", "QUA_16-18"]
+  },
+  {
+    "cod_professor": "PROF_12",
+    "professor_name": "SCHOTS LTD.'s CEO",
+    "cod_preferred_hours": null
+  },
+  {
+    "cod_professor": "PROF_13",
+    "professor_name": "GRAMPA BOY",
+    "cod_preferred_hours": null
+  },
+  {
+    "cod_professor": "PROF_14",
+    "professor_name": "UBISOFT",
+    "cod_preferred_hours": ["SEG_8-10", "SEG_10-12", "SEG_14-16", "SEG_16-18", "SEX_8-10", "SEX_10-12", "SEX_14-16", "SEX_16-18"]
+  }
+]
