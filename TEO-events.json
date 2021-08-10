@@ -1,0 +1,578 @@
+[
+  {
+    "cod_event": "IM853",
+    "event_name": "CIRCUITOS DIGITAIS",
+    "event_period": 1,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "IM885",
+    "event_name": "GEOMETRIA ANALÍTICA",
+    "event_period": 1,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN703",
+    "event_name": "COMPUTADORES E SOCIEDADE",
+    "event_period": 1,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN705",
+    "event_name": "MATEMÁTICA DISCRETA PARA COMPUTAÇÃO",
+    "event_period": 1,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN706",
+    "event_name": "PROGRAMAÇÃO ESTRUTURADA",
+    "event_period": 1,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN707",
+    "event_name": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+    "event_period": 1,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "IM403",
+    "event_name": "CÁLCULO I",
+    "event_period": 2,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "IM429",
+    "event_name": "ÁLGEBRA LINEAR I",
+    "event_period": 2,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "IM885"
+  },
+  {
+    "cod_event": "TN709",
+    "event_name": "LÓGICA PARA COMPUTAÇÃO",
+    "event_period": 2,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN710",
+    "event_name": "ENGENHARIA DE SOFTWARE I",
+    "event_period": 2,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN711",
+    "event_name": "ESTRUTURA DE DADOS I",
+    "event_period": 2,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "TN706"
+  },
+  {
+    "cod_event": "TN712",
+    "event_name": "ARQUITETURA DE COMPUTADORES",
+    "event_period": 2,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "IM853"
+  },
+  {
+    "cod_event": "IM404",
+    "event_name": "CÁLCULO II",
+    "event_period": 3,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "IM403"
+  },
+  {
+    "cod_event": "IM478",
+    "event_name": "ÁLGEBRA LINEAR COMPUTACIONAL",
+    "event_period": 3,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "IM429"
+  },
+  {
+    "cod_event": "TN715",
+    "event_name": "LINGUAGENS FORMAIS E AUTÔMATOS",
+    "event_period": 3,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN716",
+    "event_name": "MODELAGEM E PROJETO DE SOFTWARE",
+    "event_period": 3,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "TN710"
+  },
+  {
+    "cod_event": "TN717",
+    "event_name": "PROGRAMAÇÃO ORIENTADA A OBJETOS",
+    "event_period": 3,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "TN706"
+  },
+  {
+    "cod_event": "TN718",
+    "event_name": "GRAFOS E ALGORITMOS",
+    "event_period": 3,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "IM859",
+    "event_name": "PROBABILIDADE E ESTATÍSTICA PARA CIÊNCIA DA COMPUTAÇÃO",
+    "event_period": 4,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "IM404"
+  },
+  {
+    "cod_event": "IM868",
+    "event_name": "SISTEMAS OPERACIONAIS",
+    "event_period": 4,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM406",
+    "event_name": "CÁLCULO III",
+    "event_period": 4,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "IM404"
+  },
+  {
+    "cod_event": "TM407",
+    "event_name": "FÍSICA PARA CIÊNCIA DA COMPUTAÇÃO",
+    "event_period": 4,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "IM404"
+  },
+  {
+    "cod_event": "TN720",
+    "event_name": "LINGUAGENS DE PROGRAMAÇÃO",
+    "event_period": 4,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "TN717"
+  },
+  {
+    "cod_event": "TN723",
+    "event_name": "ANÁLISE E PROJETO DE ALGORITMOS",
+    "event_period": 4,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 1,
+    "cod_prerequisites": "TN718"
+  },
+  {
+    "cod_event": "TM421",
+    "event_name": "COMPUTAÇÃO GRÁFICA",
+    "event_period": 5,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 2,
+    "cod_prerequisites": "IM429,TN711"
+  },
+  {
+    "cod_event": "TN724",
+    "event_name": "INTELIGÊNCIA ARTIFICIAL",
+    "event_period": 5,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 2,
+    "cod_prerequisites": "TN711,TN709"
+  },
+  {
+    "cod_event": "TN725",
+    "event_name": "COMPILADORES",
+    "event_period": 5,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 2,
+    "cod_prerequisites": "TN715,TN720"
+  },
+  {
+    "cod_event": "TN726",
+    "event_name": "MÉTODOS NUMÉRICOS",
+    "event_period": 5,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 2,
+    "cod_prerequisites": "IM404"
+  },
+  {
+    "cod_event": "TN727",
+    "event_name": "BANCO DE DADOS",
+    "event_period": 5,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN728",
+    "event_name": "OTIMIZAÇÃO LINEAR",
+    "event_period": 5,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 2,
+    "cod_prerequisites": "IM429"
+  },
+  {
+    "cod_event": "TN729",
+    "event_name": "REDES E SISTEMAS DISTRIBUÍDOS",
+    "event_period": 6,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 2,
+    "cod_prerequisites": "IM868"
+  },
+  {
+    "cod_event": "TN730",
+    "event_name": "ESTRUTURA DE DADOS 2",
+    "event_period": 6,
+    "event_type": "MANDATORY",
+    "cod_timegroup": 2,
+    "cod_prerequisites": "TN711"
+  },
+  {
+    "cod_event": "IM188",
+    "event_name": "CULTURA AFRO-BRASILEIRA E AFRICANA",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "IM461",
+    "event_name": "LINGUAGEM BRASILEIRA DE SINAIS (LIBRAS)",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM419",
+    "event_name": "GERÊNCIA DE PROJETOS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM429",
+    "event_name": "INTRODUÇÃO À TEORIA DOS SISTEMAS DE RECOMENDAÇÃO",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM430",
+    "event_name": "REDES DE COMPUTADORES SEM FIO",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM431",
+    "event_name": "INTRODUÇÃO À TEORIA DAS REDES DE PETRI",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM432",
+    "event_name": "MODELAGEM DE SOFTWARE COM REDES DE PETRI",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM434",
+    "event_name": "MINERAÇÃO DE DADOS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM435",
+    "event_name": "PROGRAMAÇÃO PARALELA E DISTRIBUÍDA",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM436",
+    "event_name": "ALGORITMOS PARALELOS E DISTRIBUÍDOS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM438",
+    "event_name": "PROCESSAMENTO DE IMAGENS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM441",
+    "event_name": "PROCESSAMENTO DE LINGUAGEM NATURAL",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TM444",
+    "event_name": "BUSCA E RECUPERAÇÃO DE INFORMAÇÃO",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN704",
+    "event_name": "INTRODUÇÃO À ENGENHARIA DE SOFTWARE EXPERIMENTAL",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN708",
+    "event_name": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN713",
+    "event_name": "INTRODUÇÃO AOS SISTEMAS DE INFORMAÇÃO",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN719",
+    "event_name": "ENGENHARIA DE SOFTWARE II",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN721",
+    "event_name": "ARQUITETURA DE SOFTWARE",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN722",
+    "event_name": "MODELAGEM E ANÁLISE FORMAL DE PROCESSOS DE NEGÓCIO",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN732",
+    "event_name": "MEDIÇÃO E QUALIDADE DE SOFTWARE",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN733",
+    "event_name": "INTERAÇÃO HUMANO-COMPUTADOR",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN734",
+    "event_name": "ENGENHARIA DE REQUISITOS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN735",
+    "event_name": "BANCO DE DADOS II",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN736",
+    "event_name": "INTRODUÇÃO À WEB SEMÂNTICA",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN737",
+    "event_name": "INTRODUÇÃO À BIOLOGIA COMPUTACIONAL",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN739",
+    "event_name": "TEORIA DOS JOGOS ALGORÍTMICA",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN740",
+    "event_name": "TÓPICOS ESPECIAIS EM GRAFOS E ALGORITMOS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN741",
+    "event_name": "COMPUTAÇÃO DE ALTO DESEMPENHO",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN742",
+    "event_name": "PROGRAMAÇÃO EM GPU",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN743",
+    "event_name": "INTRODUÇÃO À DISPOSITIVOS MÓVEIS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN744",
+    "event_name": "ROTEAMENTO EM REDES DE COMPUTADORES",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN745",
+    "event_name": "APRENDIZADO DE MÁQUINA",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN746",
+    "event_name": "REDES NEURAIS ARTIFICIAIS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN747",
+    "event_name": "INTELIGÊNCIA DE NEGÓCIOS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN748",
+    "event_name": "ARQUITETURA DE COMPUTADORES II",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN749",
+    "event_name": "TEORIA DOS GRAFOS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN750",
+    "event_name": "OTIMIZAÇÃO COMBINATÓRIA",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN751",
+    "event_name": "TÓPICOS ESPECIAIS EM OTIMIZAÇÃO",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN754",
+    "event_name": "EMPREENDEDORISMO EM INFORMÁTICA",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  },
+  {
+    "cod_event": "TN755",
+    "event_name": "GESTÃO DE PROCESSOS",
+    "event_period": 0,
+    "event_type": "OPTIONAL",
+    "cod_timegroup": 2,
+    "cod_prerequisites": ""
+  }
+]
